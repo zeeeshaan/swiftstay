@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "357620107243",
+    "project_id": "hotelmangment786",
+    "storage_bucket": "hotelmangment786.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357620107243:android:89facd4169768b4b21bbae",
+        "android_client_info": {
+          "package_name": "com.example.hotel_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfDRyd8sUL1SxL98NWDamwq5273N6dm3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357620107243:android:ce628c6eedd591e421bbae",
+        "android_client_info": {
+          "package_name": "com.example.swiftstay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfDRyd8sUL1SxL98NWDamwq5273N6dm3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
